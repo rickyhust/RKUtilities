@@ -11,5 +11,6 @@
 
 #import "RKUtility.h"
 #import "RKMacroDef.h"
+#import "RKGlobalFunc.h"
 
 #endif /* RKUtilities_h */
