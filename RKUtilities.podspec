@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RKUtilities'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'RKUtilities for common utility.'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-RKUtilities for project.
+RKUtilities for project usage, don't need write in every new project.
                        DESC
 
   s.homepage         = 'https://github.com/rickyhust/RKUtilities'
