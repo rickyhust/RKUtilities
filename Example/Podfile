@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RKUtilities_Example' do
+  pod 'RKUtilities', :path => '../'
+
+  target 'RKUtilities_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
