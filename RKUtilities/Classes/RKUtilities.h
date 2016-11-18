@@ -12,5 +12,9 @@
 #import "RKUtility.h"
 #import "RKMacroDef.h"
 #import "RKGlobalFunc.h"
+#import "NSString+RK.h"
+#import "NSArray+RK.h"
+#import "NSDictionary+RK.h"
+#import "UIView+RK.h"
 
 #endif /* RKUtilities_h */
